@@ -1,0 +1,58 @@
+D:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.exe.config
+D:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.exe
+D:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.pdb
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.Cache
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.exe
+D:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.pdb
+E:\MyStack\MyStack\bin\Debug\MyStack.exe.config
+E:\MyStack\MyStack\obj\Debug\MyStack.exe
+E:\MyStack\MyStack\obj\Debug\MyStack.pdb
+E:\MyStack\MyStack\bin\Debug\MyStack.exe
+E:\MyStack\MyStack\bin\Debug\MyStack.pdb
+E:\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+E:\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+E:\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+E:\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.Cache
+E:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.exe.config
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.exe
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.pdb
+E:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.exe
+E:\Yни\САОД\MyStack\MyStack\bin\Debug\MyStack.pdb
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.Cache
+E:\Yни\САОД\MyStack\MyStack\obj\Debug\MyStack.Calc.resources
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe.config
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.exe
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.pdb
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.pdb
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Calc.resources
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+E:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.Cache
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe.config
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.exe
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.pdb
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.pdb
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Calc.resources
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+G:\2 курс\2 Семестр\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.Cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\bin\Debug\MyStack.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Calc.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Form1.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\3 Задание (Калькулятор)\MyStack\MyStack\obj\Debug\MyStack.pdb
